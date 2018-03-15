@@ -1,9 +1,0 @@
-c:\users\mehul\source\repos\Animation_Sln\AnimateLib\bin\Debug\netstandard2.0\AnimateLib.deps.json
-c:\users\mehul\source\repos\Animation_Sln\AnimateLib\bin\Debug\netstandard2.0\AnimateLib.dll
-c:\users\mehul\source\repos\Animation_Sln\AnimateLib\bin\Debug\netstandard2.0\AnimateLib.pdb
-c:\users\mehul\source\repos\Animation_Sln\AnimateLib\obj\Debug\netstandard2.0\AnimateLib.csprojResolveAssemblyReference.cache
-c:\users\mehul\source\repos\Animation_Sln\AnimateLib\obj\Debug\netstandard2.0\AnimateLib.csproj.CoreCompileInputs.cache
-c:\users\mehul\source\repos\Animation_Sln\AnimateLib\obj\Debug\netstandard2.0\AnimateLib.AssemblyInfoInputs.cache
-c:\users\mehul\source\repos\Animation_Sln\AnimateLib\obj\Debug\netstandard2.0\AnimateLib.AssemblyInfo.cs
-c:\users\mehul\source\repos\Animation_Sln\AnimateLib\obj\Debug\netstandard2.0\AnimateLib.dll
-c:\users\mehul\source\repos\Animation_Sln\AnimateLib\obj\Debug\netstandard2.0\AnimateLib.pdb
